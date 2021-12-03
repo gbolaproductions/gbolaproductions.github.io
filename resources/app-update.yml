@@ -1,0 +1,6 @@
+owner: Pingendo
+repo: pingendo
+provider: github
+updaterCacheDirName: pingendo-updater
+publisherName:
+  - 'Pingendo, Inc.'
